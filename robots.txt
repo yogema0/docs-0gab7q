@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-3wkpi1.salamcuanwin.sbs/sitemap.xml
